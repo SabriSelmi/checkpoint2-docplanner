@@ -254,6 +254,9 @@ svg{
     color: #3d83df;
     opacity: 0.3;
 }
+svg:hover{
+    opacity:0.7;
+}
 
 .the-worlds{
     background: url(logo.png) no-repeat;
